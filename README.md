@@ -34,11 +34,7 @@ Complete with search box that offers suggestions as you type:
 
 Node 14.x Version
 
-## Cloning the repository
 
-```shell
-git clone https://github.com/JonnyDavies/amazon-clone-frontend.git
-```
 
 ## Start the app
 
